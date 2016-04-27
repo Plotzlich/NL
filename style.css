@@ -1,0 +1,49 @@
+@import "header.css";
+@import "content.css";
+@import "footer.css";
+
+@font-face { 
+font-family: Lato Light; 
+src: url(fonts/light.ttf);
+}
+
+
+a {
+	color:inherit !important;
+	text-decoration:none !important;
+}
+
+a:hover {
+	color:inherit !important;
+	text-decoration:none !important;
+}
+
+a:visited {
+	color:inherit !important;
+	text-decoration:none !important;
+}
+
+a:active {
+	color:inherit !important;
+	text-decoration:none !important;
+}
+
+a:focus {
+	color:inherit !important;
+	text-decoration:none !important;
+}
+
+body {
+	position:relative;
+	font-family:Lato;
+	line-height:1.8;
+}
+
+.container {
+	max-width:980px !important;
+	margin:0 auto;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	background-color:inherit !important;
+}
