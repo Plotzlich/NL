@@ -58,7 +58,7 @@ header {
 	height:429px;
 	width:459px;
 	float:right;
-	background: url(../images/header_info.png) no-repeat;
+	background: url(images/header_info.png) no-repeat;
 }
 
 @media (max-width:1500px) {
@@ -127,7 +127,7 @@ input[type="submit"] {
 	width:18px;
 	height:18px;
 	cursor: pointer;
-    background: url("../images/search.png") no-repeat;
+    background: url("images/search.png") no-repeat;
     border:none;
     outline:none;
     margin-top: 15px;
@@ -179,15 +179,15 @@ img.slider_img {
 @media (min-width:992px) {
 	.nav li a:hover {
 		background-color:transparent;
-		background:url(../images/line_header.png) no-repeat right bottom;
+		background:url(images/line_header.png) no-repeat right bottom;
 	}
 
 	.nav li:hover {
-		background:url(../images/hover_line.png);
+		background:url(images/hover_line.png);
 	}
 
 	.active_header {
-		background:url(../images/line_header.png) no-repeat right bottom;
+		background:url(images/line_header.png) no-repeat right bottom;
 	}
 
 	.nav {
@@ -281,17 +281,17 @@ img.slider_img {
 }
 
 .box-1 {
-	background: url(../images/slider.jpg) no-repeat;
+	background: url(images/slider.jpg) no-repeat;
 	background-size:cover;
 }
 
 .box-2 {
-	background: url(../images/slider2.jpg) no-repeat;
+	background: url(images/slider2.jpg) no-repeat;
 	background-size:cover;
 }
 
 .box-3 {
-	background: url(../images/slider3.jpg) no-repeat;
+	background: url(images/slider3.jpg) no-repeat;
 	background-size:cover;
 }
 
@@ -388,7 +388,7 @@ img.slider_img {
 /* content starts */
 
 .content__main_info {
-	background: url(../images/main_info.png) no-repeat;
+	background: url(images/main_info.png) no-repeat;
 	background-size:100%;
 	padding:20px 20px 115px 20px;
 }
@@ -425,7 +425,7 @@ img.slider_img {
 	float:left;
 	margin:0 1.1%;
 	line-height:1.5;
-	background: url(../images/about-us.png);
+	background: url(images/about-us.png);
 }
 
 .main_info__block5 {
@@ -434,7 +434,7 @@ img.slider_img {
 	float:right;
 	margin-right:1.1%;
 	line-height:1.5;
-	background: url(../images/about-us.png);
+	background: url(images/about-us.png);
 }
 
 .block__h3 {
@@ -466,7 +466,7 @@ img.slider_img {
 .gallery__img1, .gallery__img2, .gallery__img3, .gallery__img4, .gallery__img5 {
 	height:300px;
 	width:300px;
-	background: url(../images/foto.png);
+	background: url(images/foto.png);
 	margin: 0 13px 16px 0;
 	display:inline-block;
 }
@@ -510,7 +510,7 @@ img.slider_img {
 	width:285px;
 	margin:0 auto;
 	margin-top:220px;
-	background:url(../images/foto_info.png);
+	background:url(images/foto_info.png);
 }
 
 .img2_description {
@@ -518,7 +518,7 @@ img.slider_img {
 	width:285px;
 	margin:0 auto;
 	margin-top:220px;
-	background:url(../images/foto_info.png);
+	background:url(images/foto_info.png);
 }
 
 .img3_description {
@@ -526,7 +526,7 @@ img.slider_img {
 	width:285px;
 	margin:0 auto;
 	margin-top:220px;
-	background:url(../images/foto_info.png);
+	background:url(images/foto_info.png);
 }
 
 .img4_description {
@@ -534,7 +534,7 @@ img.slider_img {
 	width:285px;
 	margin:0 auto;
 	margin-top:220px;
-	background:url(../images/foto_info.png);
+	background:url(images/foto_info.png);
 }
 
 .img5_description {
@@ -542,7 +542,7 @@ img.slider_img {
 	width:285px;
 	margin:0 auto;
 	margin-top:220px;
-	background:url(../images/foto_info.png);
+	background:url(images/foto_info.png);
 }
 
 .description_name {
@@ -630,7 +630,7 @@ img.slider_img {
 		float:none;
 		margin:0 auto;
 		line-height:1.5;
-		background: url(../images/about-us.png);
+		background: url(images/about-us.png);
 		clear:both;
 	}
 
@@ -640,7 +640,7 @@ img.slider_img {
 		margin:0 auto;
 		float:none;
 		line-height:1.5;
-		background: url(../images/about-us.png);
+		background: url(images/about-us.png);
 		clear:both;
 	}
 
@@ -802,7 +802,7 @@ img.slider_img {
 
 footer {
 	height:444px;
-	background: url(../images/line_footer.png) no-repeat;
+	background: url(images/line_footer.png) no-repeat;
 	background-size:100%;
 }
 
@@ -827,14 +827,14 @@ footer {
 .facebook {
 	height:56px;
 	width:56px;
-	background: url(../images/social.png) 0 0;
+	background: url(images/social.png) 0 0;
 	float:left;
 }
 
 .twitter {
 	height:56px;
 	width:56px;
-	background: url(../images/social.png) -71px 0;
+	background: url(images/social.png) -71px 0;
 	float:right;
 }
 
@@ -844,7 +844,7 @@ footer {
 	margin:0 auto;
 	background: url() no-repeat;
 	background-size:100%;
-	background:url(../images/wire.png);
+	background:url(images/wire.png);
 	margin-top:30px;
 }
  
@@ -862,7 +862,7 @@ footer {
 .active_footer {
 	width:43px;
 	height:30px;
-	background:url(../images/orange_cube.png) no-repeat;
+	background:url(images/orange_cube.png) no-repeat;
 	color:#fff;
 	position:relative;
 	top:5px;
