@@ -657,6 +657,12 @@ img.slider_img {
     }
 }
 
+@media (min-width:768px) {
+	.header__logo {
+		margin-left:0;
+	}
+}
+
 @media all and (max-width:767px) {
 	.main_info__block1 {
 		width:auto;
